@@ -1,6 +1,6 @@
 Text Decoder
 
-verview
+
 The "Text Decoder" is a simple web application that encodes and decodes text using specific transformations for each vowel. It was built using HTML, CSS, and JavaScript. The application allows users to input text, encode or decode it based on predefined rules, and copy the result to the clipboard.
 
 Features
